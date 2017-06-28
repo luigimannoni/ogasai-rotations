@@ -1,3 +1,18 @@
+--[[
+		Original script from Beniamin, forked and readapted for a better automation
+		http://darkenedlinux.com/ogasai/member.php?action=profile&uid=22
+	]]
+
+--[[ TODOs:
+	- Refine 1-10 leveling
+	- Better analyse the surroundings, often the bot kills itself with 2 mobs or a mob which can't cope with
+	- Flee from mobs
+	- Make navigation more human-alike
+	- Reply to whispers
+	- Trigger Repair/Sell routine
+	- Check for new gear to equip, bags, etc
+]]
+
 --[[CGObject_C = 0,
     CGItem_C,
     CGContainer_C,
