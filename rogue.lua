@@ -11,6 +11,9 @@
 	- Reply to whispers
 	- Trigger Repair/Sell routine
 	- Check for new gear to equip, bags, etc
+	- Review existing code
+	- Dynamic settings, be aware of what we can eat or rec
+	- Cooking(?)
 ]]
 
 --[[CGObject_C = 0,
